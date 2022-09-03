@@ -6,7 +6,7 @@
 /*   By: coder <marvin@42.fr>                       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/08/30 19:32:43 by coder             #+#    #+#             */
-/*   Updated: 2022/08/30 19:35:09 by coder            ###   ########.fr       */
+/*   Updated: 2022/09/03 19:21:25 by lmedeiro         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -18,5 +18,4 @@ void	ft_is_negative(int n)
 		ft_putchar ('N');
 	else
 		ft_putchar ('P');
-	ft_putchar ('\n');
 }
